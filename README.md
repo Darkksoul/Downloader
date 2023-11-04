@@ -10,14 +10,18 @@
   <a href="https://t.me/spotdl_tel_bot">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Demo" width="240">
   </a>
+ <a href="https://t.me/spotdl_tel_bot">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Demo" width="240">
+  </a>
   <br>
-  <a href="https://github.com/Darkksoul/Downloader/stargazers">
+  <a href="https://github.com/gsoosk/TelegramSpotifyDownloader/stargazers">
     <img src="https://img.shields.io/github/stars/gsoosk/TelegramSpotifyDownloader?style=social">
   </a>
-  <a href="https://github.com/Darkksoul/Downloader/fork">
+  <a href="https://github.com/gsoosk/TelegramSpotifyDownloader/fork">
     <img src="https://img.shields.io/github/forks/gsoosk/TelegramSpotifyDownloader?label=Fork&style=social">
   </a>  
 </p>
+
 
 ## What is it?
 This is a simple bot to download songs from YouTube in an MP3 format by using Spotify's HTTP link.
