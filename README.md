@@ -4,17 +4,17 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://heroku.com/deploy?template=https://github.com/gsoosk/TelegramSpotifyDownloader/tree/heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/Darkksoul/Downloader/tree/heroku">
     <img src="https://www.herokucdn.com/deploy/button.svg" width="180">
   </a>
   <a href="https://t.me/spotdl_tel_bot">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Demo" width="240">
   </a>
   <br>
-  <a href="https://github.com/gsoosk/TelegramSpotifyDownloader/stargazers">
+  <a href="https://github.com/Darkksoul/Downloader/stargazers">
     <img src="https://img.shields.io/github/stars/gsoosk/TelegramSpotifyDownloader?style=social">
   </a>
-  <a href="https://github.com/gsoosk/TelegramSpotifyDownloader/fork">
+  <a href="https://github.com/Darkksoul/Downloader/fork">
     <img src="https://img.shields.io/github/forks/gsoosk/TelegramSpotifyDownloader?label=Fork&style=social">
   </a>  
 </p>
