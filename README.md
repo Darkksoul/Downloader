@@ -4,13 +4,10 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://heroku.com/deploy?template=https://github.com/Darkksoul/Downloader/tree/heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/gsoosk/TelegramSpotifyDownloader/tree/heroku">
     <img src="https://www.herokucdn.com/deploy/button.svg" width="180">
   </a>
   <a href="https://t.me/spotdl_tel_bot">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Demo" width="240">
-  </a>
- <a href="https://t.me/spotdl_tel_bot">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Demo" width="240">
   </a>
   <br>
@@ -21,7 +18,6 @@
     <img src="https://img.shields.io/github/forks/gsoosk/TelegramSpotifyDownloader?label=Fork&style=social">
   </a>  
 </p>
-
 
 ## What is it?
 This is a simple bot to download songs from YouTube in an MP3 format by using Spotify's HTTP link.
